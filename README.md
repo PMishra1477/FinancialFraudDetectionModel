@@ -1,5 +1,5 @@
  
-# Financial-Fraud Detection Model 
+# Financial Fraud Detection Model 
 
 ## Overview
 This project aims to detect financial fraud by employing various machine learning and deep learning models. The dataset includes transactional data with features like transaction type, amount, and balance changes. The objective is to develop models that can accurately classify transactions as fraudulent or non-fraudulent.
